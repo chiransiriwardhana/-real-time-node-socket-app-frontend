@@ -1,0 +1,30 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    background: #1b2430;
+    padding: 20px 30px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
+    position: relative;
+}
+
+#navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+nav > h5 {
+    color: white;
+}
+
+.logout {
+    height: 100%;
+    background: rgb(1, 181, 173);
+    border: none;
+    position: relative;
+    padding: 5px;
+    width:8%;
+    position: absolute;
+    left: 92%;
+}
+
