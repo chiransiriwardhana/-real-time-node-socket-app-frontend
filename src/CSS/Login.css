@@ -19,6 +19,11 @@
     letter-spacing: -1px;
 }
 
+.login__form > h5 {
+    padding-bottom: 10px;
+    color: red;;
+}
+
 .login__form > input {
     min-width: 380px;
     padding: 20px 0;
@@ -37,6 +42,5 @@
     border: none;
     color: white;
     font-size: 14px;
-    border-radius: 3px;
-    
+    border-radius: 3px; 
 }
