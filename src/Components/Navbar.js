@@ -12,5 +12,4 @@ function Navbar({ user, logout }) {
     </>
   );
 }
-
 export default Navbar;
